@@ -1,16 +1,15 @@
 # E-Commerce
 #HTML #CSS #JavaScript #RWD
 
-First replication project, aimed at honing fundamental skills and gaining a deeper understanding of frontend development and its practical applications.
+電子商務網站
+第二個復刻專案，旨在加強基礎技能，並深入理解與應用前端開發與實踐。
 
-Utilized Technologies: HTML, CSS, RWD, JavaScript
+使用技術：HTML, CSS, RWD, JavaScript
 
-Key Achievements:
+主要成果：
 
-Successfully used HTML to build the user interface and functionality of a basic e-commerce platform. Implemented CSS for styling and utilized JavaScript to enhance interactivity, including the implementation of dropdown menus for improved user engagement.
+– 成功使用HTML構建基本電商平台的用戶界面和功能，並利用CSS呈現風格設計，以及JavaScript實現下拉式選單功能，提升互動性。
 
-Integrated the Font Awesome toolkit for easy use of fonts and icons.
+– 整合Font Awesome工具套件，簡易使用字體與圖標。
 
-Embedded Google Maps links to display location information.
-
-Applied Responsive Web Design (RWD) techniques to support various browsing devices, enhancing user experience.
+– 嵌入Google 地圖連結，實現地圖資訊的呈現。
