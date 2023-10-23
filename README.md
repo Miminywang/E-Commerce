@@ -1,8 +1,7 @@
 # E-Commerce
 #HTML #CSS #JavaScript #RWD
 
-電子商務網站
-第二個復刻專案，旨在加強基礎技能，並深入理解與應用前端開發與實踐。
+電子商務網站旨在加強基礎技能，並深入理解與應用前端開發與實踐。
 
 使用技術：HTML, CSS, RWD, JavaScript
 
